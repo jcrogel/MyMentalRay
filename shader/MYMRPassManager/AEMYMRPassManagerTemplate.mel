@@ -1,0 +1,28 @@
+global proc AEAEMYMRPassManagerCamera( string $conv ){
+
+    print ("here!");
+    
+}
+
+
+global proc AEMYMRPassManagerTemplate( string $nodeName ){
+    AEswatchDisplay $nodeName;
+    
+    editorTemplate -beginScrollLayout;
+        editorTemplate -beginLayout "MYMRPassManager" -collapse 0;
+            editorTemplate -l "Buffers" -addControl "color";
+            editorTemplate -as;
+            editorTemplate -addExtraControls -ecl "Camera" -ccu AEAEMYMRPassManagerCamera;
+             
+        editorTemplate -endLayout;      
+
+        
+
+        AEdependNodeTemplate $nodeName;
+        
+        
+        editorTemplate -addExtraControls;
+    editorTemplate -endScrollLayout;
+    
+}
+

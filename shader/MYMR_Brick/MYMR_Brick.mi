@@ -1,0 +1,14 @@
+declare shader
+    color "MYMR_Brick" (
+                color brickColor, #: default 1 1 1
+                scalar brickWidth, #:  min 0 max 1 default .25
+                scalar brickHeight, #:  min 0 max 1 default .08
+                color mortarColor, #: default 0 0 0
+                scalar mortarThickness, #:  min 0 max 1 default .01
+                scalar grainFactor, #min 0 max 1 default 0.2
+            )
+
+    version 1
+    apply material
+    #: nodeid 41249
+end declare

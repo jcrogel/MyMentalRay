@@ -1,0 +1,6 @@
+#Sun Apr 19 13:50:36 PDT 2009
+AUTOCOMPLETE_ON_PAR=true
+AUTOCOMPLETE_ON_ALL_ASCII_CHARS=true
+DONT_GENERATE_TYPETAGS_PREFIXES=sz\u0000n\u0000f\u0000
+eclipse.preferences.version=1
+INTERPRETER_PATH_NEW=Version2.5Executable\:/System/Library/Frameworks/Python.framework/Versions/2.5/Resources/Python.app/Contents/MacOS/Python|/Applications/eclipse/plugins/org.python.pydev_1.3.14/PySrc|/Library/Python/2.5/site-packages|/System/Library/Frameworks/Python.framework/Versions/2.5/Extras/lib/python|/System/Library/Frameworks/Python.framework/Versions/2.5/Extras/lib/python/PyObjC|/System/Library/Frameworks/Python.framework/Versions/2.5/lib/python2.5|/System/Library/Frameworks/Python.framework/Versions/2.5/lib/python2.5/lib-dynload|/System/Library/Frameworks/Python.framework/Versions/2.5/lib/python2.5/lib-tk|/System/Library/Frameworks/Python.framework/Versions/2.5/lib/python2.5/plat-darwin|/System/Library/Frameworks/Python.framework/Versions/2.5/lib/python2.5/plat-mac|/System/Library/Frameworks/Python.framework/Versions/2.5/lib/python2.5/plat-mac/lib-scriptpackages|/System/Library/Frameworks/Python.framework/Versions/2.5/lib/python25.zip@$|OpenGL|__builtin__|__main__|_ast|_codecs|_sre|_symtable|_types|errno|exceptions|gc|imp|marshal|os|posix|pwd|signal|sys|thread|wx|wxPython|xxsubtype|zipimport&&&&&

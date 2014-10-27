@@ -1,0 +1,19 @@
+declare shader
+    struct {
+        color "result",
+        color "diffuse_result",
+        color "spec_result",
+        color "refl_result"
+    } "MYMR_Alluminum" (
+            color "ambient", #: default 0 0 0
+            color "diffuse", #:  default 1 1 1
+            color "specular", #:   default 0 0 0
+            scalar "specular_exponent", #:  default 30
+            color "reflection" , #:  default 0 0 0
+            scalar "reflection_factor" , #:  min 0 max 1 default 10
+            )
+
+    version 1
+    apply material
+    #: nodeid 41247
+end declare

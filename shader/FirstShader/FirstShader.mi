@@ -1,0 +1,10 @@
+declare shader
+	color "FirstShader"(
+			color		"BaseColor",
+			color		"BackColor",
+			integer	"Value"
+		)
+
+	version 1
+	#: nodeid 4123
+end declare

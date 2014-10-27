@@ -1,0 +1,16 @@
+global proc AEMMR_AB_MonoChromeTemplate( string $nodeName ){
+	AEswatchDisplay $nodeName;
+	
+	editorTemplate -beginScrollLayout;
+		editorTemplate -beginLayout "AEMMR_AB_MonoChrome" -collapse 0;
+			editorTemplate -l "Input Color" -addControl "InputColor";
+			editorTemplate -l "Red Weight" -addControl "RWeight";
+			editorTemplate -l "Green Weight" -addControl "GWeight";
+			editorTemplate -l "Blue Weight" -addControl "BWeight";
+			editorTemplate -l "Brightness" -addControl "Brightness";
+		editorTemplate -endLayout;		
+
+		AEdependNodeTemplate $nodeName;
+		editorTemplate -addExtraControls;
+	editorTemplate -endScrollLayout;
+}

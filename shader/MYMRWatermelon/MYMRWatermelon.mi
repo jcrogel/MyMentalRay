@@ -1,0 +1,16 @@
+declare shader
+    struct {
+        color "result",
+        color "diffuse_result",
+        color "spec_result",
+        color "refl_result"
+    } "MYMRWatermelon" (
+            color "base_color", #: default 0 0 0
+            scalar "basecolor_freq" , #:  min 0 max 1 default 10
+            scalar "label"  #:  min 0 default 10
+            )
+
+    version 1
+    apply material
+    #: nodeid 41247
+end declare

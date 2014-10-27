@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extensions>
+	<bundle bundleID="188" schema="3.2">
+		<extension line="6" point="org.eclipse.ui.editors"/>
+	</bundle>
+</extensions>

@@ -1,0 +1,6 @@
+
+
+string $mywindow = `window -backgroundColor .33 .33 .33 -title MyMRShaderInstall`;
+paneLayout;
+image -image "image";
+showWindow $mywindow;

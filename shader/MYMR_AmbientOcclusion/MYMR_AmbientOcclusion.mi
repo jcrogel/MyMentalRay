@@ -1,0 +1,9 @@
+declare shader
+    color "MYMR_AmbientOcclusion" (
+             integer "samples", #: default 8
+            )
+
+    version 1
+    apply material
+    #: nodeid 41248
+end declare

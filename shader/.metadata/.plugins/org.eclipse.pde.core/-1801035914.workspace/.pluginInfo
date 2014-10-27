@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+	<bundle bundleID="188" class="osleditor.Activator" name="OSLEditor Plug-in" project="OSLEditor"/>
+</map>

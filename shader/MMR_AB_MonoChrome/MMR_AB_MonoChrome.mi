@@ -1,0 +1,12 @@
+declare shader
+	color "MMR_AB_MonoChrome"(
+			color		"InputColor", #: default 0.0 0.0 0.0
+			scalar 	"RWeight", #: default 0.3 min 0.0 	max 1.0
+			scalar 	"GWeight", #: default 0.59 min 0.0 	max 1.0
+			scalar 	"BWeight", #: default 0.11 min 0.0 	max 1.0
+			scalar 	"Brightness" #: default 1.0 min 0.0 	max 1.0
+		)
+
+	version 1
+	#: nodeid 4124
+end declare

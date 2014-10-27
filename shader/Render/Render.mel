@@ -1,0 +1,37 @@
+
+
+proc renderIt(string $empty) {
+    string $opt=""; 
+    string $rl=""; 
+    string $rp=""; 
+    int $renderThreads = 2; 
+    float $resize=-1.; 
+    miLoadMayatomr; 
+    miCreateDefaultNodes(); 
+    select defaultRenderGlobals; 
+    setAttr .renderAll 1;
+ 
+    workspace -rt "images" "/tmp/";
+    workspace -rt "depth" "/tmp/";
+
+    setMentalRayImageFormat("jpg");
+    makeCameraRenderable("camera1"); 
+
+    setMayaSoftwareLayers($rl, $rp);
+    miCreateMentalJobs(); 
+    setImageSizePercent($resize); 
+    mayaBatchRenderProcedure(0, "", "", "mentalRay", $opt);
+
+}
+
+
+if (catch(renderIt())) {
+    quit -abort -force -exitCode 210;
+    error ("Scene failed to render.\n");
+} else {
+    print ("Scene completed.\n");
+    quit -abort -force -exitCode 0; // Exit Maya
+}
+
+// Ending Mel program
+//setAttr MMR_AB_Mix1.mode 1;

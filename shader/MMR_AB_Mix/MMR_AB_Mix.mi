@@ -1,0 +1,10 @@
+declare shader
+	color "MMR_AB_Mix"(
+			color		"AColor", #: default 0.0 0.0 0.0
+			color		"BColor", #: default 0.0 0.0 0.0
+			integer         "mode", #: enum "over:disjoint-over:conjoint-other:matte:copy:under:in:out:mask:stencil:xor:atop:screen:plus:average:geometric:multiply:divide:overlay:min:max:color-dodge:color-burn:hard-light:soft-light:minus:from:difference:exclusion"
+		)
+
+	version 1
+	#: nodeid 41245
+end declare

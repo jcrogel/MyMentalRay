@@ -1,0 +1,13 @@
+declare shader
+    color "MYMRPassManager" (
+        array color "color"
+    )
+
+    version 1
+
+    apply material
+    #: nodeid 412347
+end declare
+
+
+

@@ -1,0 +1,434 @@
+!SESSION 2009-01-19 11:03:21.184 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.5.0_16
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2009-01-19 11:03:25.289
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.python.pydev 1 1 2009-01-19 11:06:28.578
+!MESSAGE Information about process of adding new interpreter:
+- Opening dialog to request executable (or jar).
+- Chosen interpreter file:'/System/Library/Frameworks/Python.framework/Versions/2.5/bin/python2.5
+- Ok, file is non-null. Getting info on:/System/Library/Frameworks/Python.framework/Versions/2.5/bin/python2.5
+- Beggining task:Getting libs totalWork:100
+- Setting task name:Mounting executable string...
+- Setting task name:Executing:  /System/Library/Frameworks/Python.framework/Versions/2.5/bin/python2.5 -u /Applications/eclipse/plugins/org.python.pydev_1.3.14/PySrc/interpreterInfo.py
+- Setting task name:Making pythonpath environment... /System/Library/Frameworks/Python.framework/Versions/2.5/bin/python2.5 -u /Applications/eclipse/plugins/org.python.pydev_1.3.14/PySrc/interpreterInfo.py
+- Setting task name:Making exec... /System/Library/Frameworks/Python.framework/Versions/2.5/bin/python2.5 -u /Applications/eclipse/plugins/org.python.pydev_1.3.14/PySrc/interpreterInfo.py
+- Setting task name:Reading output...
+- Setting task name:Waiting for process to finish.
+- Success getting the info. Result:/System/Library/Frameworks/Python.framework/Versions/2.5/Resources/Python.app/Contents/MacOS/Python
+
+!SESSION 2009-01-19 11:15:03.301 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.5.0_16
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2009-01-19 11:15:06.805
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2009-03-07 15:44:33.112 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.5.0_16
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2009-03-07 15:44:40.209
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2009-04-15 20:54:07.323 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.5.0_16
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2009-04-15 20:54:13.593
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2009-04-17 21:41:16.544 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.5.0_16
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2009-04-17 21:41:26.449
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2009-04-18 19:20:25.336 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.5.0_16
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2009-04-18 19:20:36.187
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2009-04-19 12:24:57.801 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.5.0_16
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2009-04-19 12:25:08.743
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2009-04-20 23:38:23.945 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.5.0_16
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.jface 2 0 2009-04-20 23:38:29.824
+!MESSAGE Ignored reentrant call while viewer is busy. This is only logged once per viewer instance, but similar calls will still be ignored.
+!STACK 0
+java.lang.RuntimeException
+	at org.eclipse.jface.viewers.ColumnViewer.isBusy(ColumnViewer.java:79)
+	at org.eclipse.jface.viewers.ColumnViewer.refresh(ColumnViewer.java:540)
+	at org.eclipse.ui.navigator.CommonViewer.refresh(CommonViewer.java:300)
+	at org.eclipse.ui.navigator.CommonViewer.refresh(CommonViewer.java:401)
+	at org.python.pydev.navigator.PythonBaseModelProvider$3.run(PythonBaseModelProvider.java:883)
+	at org.python.pydev.navigator.PythonBaseModelProvider.runUpdates(PythonBaseModelProvider.java:696)
+	at org.python.pydev.navigator.PythonBaseModelProvider.processRunnables(PythonBaseModelProvider.java:666)
+	at org.python.pydev.navigator.PythonBaseModelProvider.processDelta(PythonBaseModelProvider.java:645)
+	at org.python.pydev.navigator.PythonBaseModelProvider.resourceChanged(PythonBaseModelProvider.java:629)
+	at org.eclipse.core.internal.events.NotificationManager$2.run(NotificationManager.java:282)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:37)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:276)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:148)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:311)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1018)
+	at org.eclipse.core.internal.resources.Resource.refreshLocal(Resource.java:1433)
+	at org.eclipse.core.internal.resources.File.refreshLocal(File.java:331)
+	at org.python.pydev.navigator.elements.PythonFile.getContents(PythonFile.java:28)
+	at org.python.pydev.navigator.PythonBaseModelProvider.hasChildren(PythonBaseModelProvider.java:237)
+	at org.eclipse.ui.internal.navigator.extensions.SafeDelegateTreeContentProvider.hasChildren(SafeDelegateTreeContentProvider.java:107)
+	at org.eclipse.ui.internal.navigator.extensions.SafeDelegateTreeContentProvider.hasChildren(SafeDelegateTreeContentProvider.java:292)
+	at org.eclipse.ui.internal.navigator.NavigatorContentServiceContentProvider.hasChildren(NavigatorContentServiceContentProvider.java:662)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.isExpandable(AbstractTreeViewer.java:2017)
+	at org.eclipse.jface.viewers.TreeViewer.isExpandable(TreeViewer.java:575)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.isExpandable(AbstractTreeViewer.java:2047)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.updatePlus(AbstractTreeViewer.java:2671)
+	at org.eclipse.jface.viewers.TreeViewer.updatePlus(TreeViewer.java:835)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createTreeItem(AbstractTreeViewer.java:807)
+	at org.eclipse.ui.navigator.CommonViewer.createTreeItem(CommonViewer.java:150)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$1.run(AbstractTreeViewer.java:781)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:755)
+	at org.eclipse.jface.viewers.TreeViewer.createChildren(TreeViewer.java:627)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalExpandToLevel(AbstractTreeViewer.java:1675)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.expandToLevel(AbstractTreeViewer.java:1033)
+	at org.python.pydev.navigator.PyPackageStateSaver.restoreState(PyPackageStateSaver.java:76)
+	at org.python.pydev.navigator.PythonModelProvider.restoreState(PythonModelProvider.java:169)
+	at org.eclipse.ui.internal.navigator.extensions.SafeDelegateTreeContentProvider.restoreState(SafeDelegateTreeContentProvider.java:156)
+	at org.eclipse.ui.internal.navigator.extensions.NavigatorContentExtension.applyMemento(NavigatorContentExtension.java:317)
+	at org.eclipse.ui.internal.navigator.extensions.NavigatorContentExtension.restoreState(NavigatorContentExtension.java:299)
+	at org.eclipse.ui.internal.navigator.NavigatorContentService$1.run(NavigatorContentService.java:899)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:37)
+	at org.eclipse.ui.internal.navigator.NavigatorContentService.restoreState(NavigatorContentService.java:912)
+	at org.python.pydev.navigator.ui.PydevPackageExplorer.createPartControl(PydevPackageExplorer.java:122)
+	at org.eclipse.ui.internal.ViewReference.createPartHelper(ViewReference.java:370)
+	at org.eclipse.ui.internal.ViewReference.createPart(ViewReference.java:227)
+	at org.eclipse.ui.internal.WorkbenchPartReference.getPart(WorkbenchPartReference.java:592)
+	at org.eclipse.ui.internal.PartPane.setVisible(PartPane.java:299)
+	at org.eclipse.ui.internal.ViewPane.setVisible(ViewPane.java:531)
+	at org.eclipse.ui.internal.presentations.PresentablePart.setVisible(PresentablePart.java:179)
+	at org.eclipse.ui.internal.presentations.util.PresentablePartFolder.select(PresentablePartFolder.java:268)
+	at org.eclipse.ui.internal.presentations.util.LeftToRightTabOrder.select(LeftToRightTabOrder.java:65)
+	at org.eclipse.ui.internal.presentations.util.TabbedStackPresentation.selectPart(TabbedStackPresentation.java:400)
+	at org.eclipse.ui.internal.PartStack.refreshPresentationSelection(PartStack.java:1256)
+	at org.eclipse.ui.internal.PartStack.createControl(PartStack.java:668)
+	at org.eclipse.ui.internal.PartStack.createControl(PartStack.java:576)
+	at org.eclipse.ui.internal.PartSashContainer.createControl(PartSashContainer.java:564)
+	at org.eclipse.ui.internal.PerspectiveHelper.activate(PerspectiveHelper.java:270)
+	at org.eclipse.ui.internal.Perspective.onActivate(Perspective.java:931)
+	at org.eclipse.ui.internal.WorkbenchPage.onActivate(WorkbenchPage.java:2515)
+	at org.eclipse.ui.internal.WorkbenchWindow$23.run(WorkbenchWindow.java:2837)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchWindow.setActivePage(WorkbenchWindow.java:2818)
+	at org.eclipse.ui.internal.WorkbenchWindow$17.runWithException(WorkbenchWindow.java:2135)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:129)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3214)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2954)
+	at org.eclipse.ui.application.WorkbenchAdvisor.openWindows(WorkbenchAdvisor.java:801)
+	at org.eclipse.ui.internal.Workbench$25.runWithException(Workbench.java:1342)
+	at org.eclipse.ui.internal.StartupThreading$StartupRunnable.run(StartupThreading.java:31)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:129)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:3214)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2954)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:2309)
+	at org.eclipse.ui.internal.Workbench.access$4(Workbench.java:2219)
+	at org.eclipse.ui.internal.Workbench$4.run(Workbench.java:466)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:289)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:461)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:149)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:106)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:169)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:106)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:76)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:363)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:176)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:39)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:25)
+	at java.lang.reflect.Method.invoke(Method.java:585)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:508)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:447)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1173)
+
+!ENTRY org.eclipse.core.net 1 0 2009-04-20 23:38:30.964
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.tigris.subversion.subclipse.core 4 0 2009-04-20 23:38:31.293
+!MESSAGE No subversion client interface found.
+!STACK 0
+org.tigris.subversion.svnclientadapter.SVNClientException: No subversion client interface found.
+	at org.tigris.subversion.svnclientadapter.SVNClientAdapterFactory.getPreferredSVNClientType(SVNClientAdapterFactory.java:86)
+	at org.tigris.subversion.subclipse.core.SVNClientManager.setSvnClientInterface(SVNClientManager.java:59)
+	at org.tigris.subversion.subclipse.core.SVNClientManager.getSvnClientInterface(SVNClientManager.java:97)
+	at org.tigris.subversion.subclipse.core.SVNClientManager.createSVNClient(SVNClientManager.java:114)
+	at org.tigris.subversion.subclipse.core.SVNProviderPlugin.createSVNClient(SVNProviderPlugin.java:415)
+	at org.tigris.subversion.subclipse.core.SVNProviderPlugin.getAdminDirectoryName(SVNProviderPlugin.java:536)
+	at org.tigris.subversion.subclipse.core.SVNProviderPlugin.isAdminDirectory(SVNProviderPlugin.java:590)
+	at org.tigris.subversion.subclipse.core.resourcesListeners.SyncFileChangeListener$2.visit(SyncFileChangeListener.java:116)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:67)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:76)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:76)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:76)
+	at org.tigris.subversion.subclipse.core.resourcesListeners.SyncFileChangeListener.resourceChanged(SyncFileChangeListener.java:75)
+	at org.eclipse.core.internal.events.NotificationManager$2.run(NotificationManager.java:282)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:37)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:276)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:148)
+	at org.eclipse.core.internal.resources.Workspace.broadcastBuildEvent(Workspace.java:295)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:133)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SESSION 2009-04-21 23:47:39.941 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.5.0_16
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2009-04-21 23:47:51.779
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2009-07-23 22:58:10.169 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.5.0_19
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2009-07-23 22:58:28.564
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2009-07-23 23:04:04.965 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.5.0_19
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2009-07-23 23:04:11.541
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2009-07-23 23:05:57.240 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.5.0_19
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2009-07-23 23:06:02.262
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2009-07-23 23:28:50.350 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.5.0_19
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2009-07-23 23:29:01.957
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2009-12-11 23:26:42.241 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_17
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2009-12-11 23:27:02.343
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2011-03-09 22:37:10.068 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_22
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2011-03-09 22:37:35.125
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.update.core 4 42 2011-03-09 22:42:53.462
+!MESSAGE Network connection problems encountered during search.
+!SUBENTRY 1 org.eclipse.update.core 4 0 2011-03-09 22:42:53.462
+!MESSAGE Unable to access "http://download.eclipse.org/tools/cdt/releases/europa".
+!STACK 1
+org.eclipse.update.internal.core.CoreExceptionWithRootCause: Unable to access site: "http://download.eclipse.org/tools/cdt/releases/europa" [Server returned HTTP response code: "404 Not Found" for URL: http://download.eclipse.org/tools/cdt/releases/europa.]
+	at org.eclipse.update.core.Utilities.newCoreException(Utilities.java:226)
+	at org.eclipse.update.internal.core.SiteURLFactory.createSite(SiteURLFactory.java:93)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:334)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:326)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:298)
+	at org.eclipse.update.internal.core.InternalSiteManager.attemptCreateSite(InternalSiteManager.java:222)
+	at org.eclipse.update.internal.core.InternalSiteManager.getSite(InternalSiteManager.java:162)
+	at org.eclipse.update.core.SiteManager.getSite(SiteManager.java:80)
+	at org.eclipse.update.search.UpdateSearchRequest.searchOneSite(UpdateSearchRequest.java:452)
+	at org.eclipse.update.search.UpdateSearchRequest.performSearch(UpdateSearchRequest.java:299)
+	at org.eclipse.update.ui.UpdateJob.runUpdates(UpdateJob.java:207)
+	at org.eclipse.update.ui.UpdateJob.run(UpdateJob.java:168)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+org.eclipse.update.internal.core.CoreExceptionWithRootCause[42]: org.eclipse.update.internal.core.FatalIOException: Server returned HTTP response code: "404 Not Found" for URL: http://download.eclipse.org/tools/cdt/releases/europa.
+	at org.eclipse.update.internal.core.UpdateManagerUtils.checkConnectionResult(UpdateManagerUtils.java:562)
+	at org.eclipse.update.internal.core.SiteURLFactory.createSite(SiteURLFactory.java:74)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:334)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:326)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:298)
+	at org.eclipse.update.internal.core.InternalSiteManager.attemptCreateSite(InternalSiteManager.java:222)
+	at org.eclipse.update.internal.core.InternalSiteManager.getSite(InternalSiteManager.java:162)
+	at org.eclipse.update.core.SiteManager.getSite(SiteManager.java:80)
+	at org.eclipse.update.search.UpdateSearchRequest.searchOneSite(UpdateSearchRequest.java:452)
+	at org.eclipse.update.search.UpdateSearchRequest.performSearch(UpdateSearchRequest.java:299)
+	at org.eclipse.update.ui.UpdateJob.runUpdates(UpdateJob.java:207)
+	at org.eclipse.update.ui.UpdateJob.run(UpdateJob.java:168)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 2 org.eclipse.update.core 4 42 2011-03-09 22:42:53.464
+!MESSAGE Unable to access site: "http://download.eclipse.org/tools/cdt/releases/europa" [Server returned HTTP response code: "404 Not Found" for URL: http://download.eclipse.org/tools/cdt/releases/europa.]
+!STACK 0
+org.eclipse.update.internal.core.FatalIOException: Server returned HTTP response code: "404 Not Found" for URL: http://download.eclipse.org/tools/cdt/releases/europa.
+	at org.eclipse.update.internal.core.UpdateManagerUtils.checkConnectionResult(UpdateManagerUtils.java:562)
+	at org.eclipse.update.internal.core.SiteURLFactory.createSite(SiteURLFactory.java:74)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:334)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:326)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:298)
+	at org.eclipse.update.internal.core.InternalSiteManager.attemptCreateSite(InternalSiteManager.java:222)
+	at org.eclipse.update.internal.core.InternalSiteManager.getSite(InternalSiteManager.java:162)
+	at org.eclipse.update.core.SiteManager.getSite(SiteManager.java:80)
+	at org.eclipse.update.search.UpdateSearchRequest.searchOneSite(UpdateSearchRequest.java:452)
+	at org.eclipse.update.search.UpdateSearchRequest.performSearch(UpdateSearchRequest.java:299)
+	at org.eclipse.update.ui.UpdateJob.runUpdates(UpdateJob.java:207)
+	at org.eclipse.update.ui.UpdateJob.run(UpdateJob.java:168)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 2 org.eclipse.update.core 4 42 2011-03-09 22:42:53.464
+!MESSAGE Unable to access site: "http://download.eclipse.org/tools/cdt/releases/europa" [Server returned HTTP response code: "404 Not Found" for URL: http://download.eclipse.org/tools/cdt/releases/europa.]
+!STACK 0
+org.eclipse.update.internal.core.FatalIOException: Server returned HTTP response code: "404 Not Found" for URL: http://download.eclipse.org/tools/cdt/releases/europa.
+	at org.eclipse.update.internal.core.UpdateManagerUtils.checkConnectionResult(UpdateManagerUtils.java:562)
+	at org.eclipse.update.internal.core.SiteURLFactory.createSite(SiteURLFactory.java:74)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:334)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:326)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:298)
+	at org.eclipse.update.internal.core.InternalSiteManager.attemptCreateSite(InternalSiteManager.java:222)
+	at org.eclipse.update.internal.core.InternalSiteManager.getSite(InternalSiteManager.java:162)
+	at org.eclipse.update.core.SiteManager.getSite(SiteManager.java:80)
+	at org.eclipse.update.search.UpdateSearchRequest.searchOneSite(UpdateSearchRequest.java:452)
+	at org.eclipse.update.search.UpdateSearchRequest.performSearch(UpdateSearchRequest.java:299)
+	at org.eclipse.update.ui.UpdateJob.runUpdates(UpdateJob.java:207)
+	at org.eclipse.update.ui.UpdateJob.run(UpdateJob.java:168)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.update.core 4 0 2011-03-09 22:42:53.464
+!MESSAGE Unable to access "http://pydev.sourceforge.net/updates".
+!STACK 1
+org.eclipse.update.internal.core.CoreExceptionWithRootCause: Unable to access site: "http://pydev.sourceforge.net/updates" [Server returned HTTP response code: "404 Not Found" for URL: http://pydev.sourceforge.net/updates.]
+	at org.eclipse.update.core.Utilities.newCoreException(Utilities.java:226)
+	at org.eclipse.update.internal.core.SiteURLFactory.createSite(SiteURLFactory.java:93)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:334)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:326)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:298)
+	at org.eclipse.update.internal.core.InternalSiteManager.attemptCreateSite(InternalSiteManager.java:222)
+	at org.eclipse.update.internal.core.InternalSiteManager.getSite(InternalSiteManager.java:162)
+	at org.eclipse.update.core.SiteManager.getSite(SiteManager.java:80)
+	at org.eclipse.update.search.UpdateSearchRequest.searchOneSite(UpdateSearchRequest.java:452)
+	at org.eclipse.update.search.UpdateSearchRequest.performSearch(UpdateSearchRequest.java:299)
+	at org.eclipse.update.ui.UpdateJob.runUpdates(UpdateJob.java:207)
+	at org.eclipse.update.ui.UpdateJob.run(UpdateJob.java:168)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+org.eclipse.update.internal.core.CoreExceptionWithRootCause[42]: org.eclipse.update.internal.core.FatalIOException: Server returned HTTP response code: "404 Not Found" for URL: http://pydev.sourceforge.net/updates.
+	at org.eclipse.update.internal.core.UpdateManagerUtils.checkConnectionResult(UpdateManagerUtils.java:562)
+	at org.eclipse.update.internal.core.SiteURLFactory.createSite(SiteURLFactory.java:74)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:334)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:326)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:298)
+	at org.eclipse.update.internal.core.InternalSiteManager.attemptCreateSite(InternalSiteManager.java:222)
+	at org.eclipse.update.internal.core.InternalSiteManager.getSite(InternalSiteManager.java:162)
+	at org.eclipse.update.core.SiteManager.getSite(SiteManager.java:80)
+	at org.eclipse.update.search.UpdateSearchRequest.searchOneSite(UpdateSearchRequest.java:452)
+	at org.eclipse.update.search.UpdateSearchRequest.performSearch(UpdateSearchRequest.java:299)
+	at org.eclipse.update.ui.UpdateJob.runUpdates(UpdateJob.java:207)
+	at org.eclipse.update.ui.UpdateJob.run(UpdateJob.java:168)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 2 org.eclipse.update.core 4 42 2011-03-09 22:42:53.465
+!MESSAGE Unable to access site: "http://pydev.sourceforge.net/updates" [Server returned HTTP response code: "404 Not Found" for URL: http://pydev.sourceforge.net/updates.]
+!STACK 0
+org.eclipse.update.internal.core.FatalIOException: Server returned HTTP response code: "404 Not Found" for URL: http://pydev.sourceforge.net/updates.
+	at org.eclipse.update.internal.core.UpdateManagerUtils.checkConnectionResult(UpdateManagerUtils.java:562)
+	at org.eclipse.update.internal.core.SiteURLFactory.createSite(SiteURLFactory.java:74)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:334)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:326)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:298)
+	at org.eclipse.update.internal.core.InternalSiteManager.attemptCreateSite(InternalSiteManager.java:222)
+	at org.eclipse.update.internal.core.InternalSiteManager.getSite(InternalSiteManager.java:162)
+	at org.eclipse.update.core.SiteManager.getSite(SiteManager.java:80)
+	at org.eclipse.update.search.UpdateSearchRequest.searchOneSite(UpdateSearchRequest.java:452)
+	at org.eclipse.update.search.UpdateSearchRequest.performSearch(UpdateSearchRequest.java:299)
+	at org.eclipse.update.ui.UpdateJob.runUpdates(UpdateJob.java:207)
+	at org.eclipse.update.ui.UpdateJob.run(UpdateJob.java:168)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 2 org.eclipse.update.core 4 42 2011-03-09 22:42:53.465
+!MESSAGE Unable to access site: "http://pydev.sourceforge.net/updates" [Server returned HTTP response code: "404 Not Found" for URL: http://pydev.sourceforge.net/updates.]
+!STACK 0
+org.eclipse.update.internal.core.FatalIOException: Server returned HTTP response code: "404 Not Found" for URL: http://pydev.sourceforge.net/updates.
+	at org.eclipse.update.internal.core.UpdateManagerUtils.checkConnectionResult(UpdateManagerUtils.java:562)
+	at org.eclipse.update.internal.core.SiteURLFactory.createSite(SiteURLFactory.java:74)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:334)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:326)
+	at org.eclipse.update.internal.core.InternalSiteManager.createSite(InternalSiteManager.java:298)
+	at org.eclipse.update.internal.core.InternalSiteManager.attemptCreateSite(InternalSiteManager.java:222)
+	at org.eclipse.update.internal.core.InternalSiteManager.getSite(InternalSiteManager.java:162)
+	at org.eclipse.update.core.SiteManager.getSite(SiteManager.java:80)
+	at org.eclipse.update.search.UpdateSearchRequest.searchOneSite(UpdateSearchRequest.java:452)
+	at org.eclipse.update.search.UpdateSearchRequest.performSearch(UpdateSearchRequest.java:299)
+	at org.eclipse.update.ui.UpdateJob.runUpdates(UpdateJob.java:207)
+	at org.eclipse.update.ui.UpdateJob.run(UpdateJob.java:168)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SESSION 2011-03-09 22:43:16.349 -----------------------------------------------
+eclipse.buildId=M20080221-1800
+java.version=1.6.0_22
+java.vendor=Apple Inc.
+BootLoader constants: OS=macosx, ARCH=x86, WS=carbon, NL=en_US
+Framework arguments:  -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws carbon -arch x86 -keyring /Volumes/vol0/Users/moreno/.eclipse_keyring -consoleLog -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2011-03-09 22:43:21.249
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences

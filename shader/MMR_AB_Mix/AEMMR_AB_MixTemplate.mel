@@ -1,0 +1,14 @@
+global proc AEMMR_AB_MixTemplate( string $nodeName ){
+	AEswatchDisplay $nodeName;
+	
+	editorTemplate -beginScrollLayout;
+		editorTemplate -beginLayout "AEMMR_AB_Mix" -collapse 0;
+			editorTemplate -l "A  Color" -addControl "AColor";
+			editorTemplate -l "B Color" -addControl "BColor";
+			editorTemplate -l "Mode" -addControl "mode";
+		editorTemplate -endLayout;		
+
+		AEdependNodeTemplate $nodeName;
+		editorTemplate -addExtraControls;
+	editorTemplate -endScrollLayout;
+}

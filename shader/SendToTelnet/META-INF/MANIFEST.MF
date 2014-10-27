@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: SendToPort Plug-in
+Bundle-SymbolicName: SendToPort; singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Activator: com.mymentalray.sendtotelnet.Activator
+Require-Bundle: org.eclipse.ui,
+ org.eclipse.core.runtime,
+ org.eclipse.core.resources
+Eclipse-LazyStart: true

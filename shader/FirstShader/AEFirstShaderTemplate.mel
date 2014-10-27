@@ -1,0 +1,14 @@
+global proc AEFirstShaderTemplate( string $nodeName ){
+	AEswatchDisplay $nodeName;
+	
+	editorTemplate -beginScrollLayout;
+		editorTemplate -beginLayout "FirstShader" -collapse 0;
+			editorTemplate -l "Base Color" -addControl "BaseColor";
+			editorTemplate -l "Back Color" -addControl "BackColor";
+			editorTemplate -l "Valuer" -addControl "Value";
+		editorTemplate -endLayout;		
+
+		AEdependNodeTemplate $nodeName;
+		editorTemplate -addExtraControls;
+	editorTemplate -endScrollLayout;
+}
